@@ -1,2 +1,3 @@
 
-https://github.com/YOUR-USERNAME/CST2550-Supermarket-Management-System
+
+https://github.com/Thriambakeshwar/CST2550-Supermarket-Management-System
